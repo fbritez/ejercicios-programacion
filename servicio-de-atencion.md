@@ -1,3 +1,4 @@
+## Servicio de atencion medica
 En un servicio de atención médica se desea implementar un sistema el cual permita a los recepcionistas cargar el ingreso de nuevos pacientes para ser atendidos y a los medicó poder ir llamándolos para poder resolver su consulta
 
 Se nos pide entonces desarrollar un sistema el cual permita cargar la llegada de un nuevo paciente. De los pacientes conocemos su nombre, apellido y el plan de cobertura médica. Existen 3 tipos de planes de cobertura. básico, oro, premium.
