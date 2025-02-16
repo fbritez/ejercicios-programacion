@@ -16,7 +16,7 @@ El centro médico ahora desea implementar un sistema de pantallas para ser expue
 ```
 public interface ScreenReport {
 	
-	public void report(String medicalPacienteName);
+	public void report(String medicalPatientName);
 	
 }
 ```
@@ -27,7 +27,7 @@ Para ello nuestra aplicacion debera de interactuar con la interface PopUpMobile 
 ```
 public interface PopUpMobile {
 	
-	public void push(String medicalPacienteName);
+	public void push(String medicalPatientName);
 	
 }
 ```
