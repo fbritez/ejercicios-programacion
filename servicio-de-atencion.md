@@ -41,8 +41,8 @@ Se pide implementar entonces la notificación necesaria para las pantallas y las
 <details>
 <summary>Soluciones esperadas</summary>
 
-Strategy para las formas de llamar a los pacientes
-Observer & adptar para notificar quien ha sido llamado
+Strategy para las formas de llamar a los pacientes.
+Observer & adpter para notificar quien ha sido llamado.
 
 El sistema debera de tener al menos un mensaje que registre la llegada de un paciente y otro mensaje que devuelva un paciente segun la estrategia selecionada y saque a ese paciente de la lista
 </details>
