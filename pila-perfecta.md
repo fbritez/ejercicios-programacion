@@ -29,7 +29,7 @@ String vacio2 = pila.pop()
 
 Desafio:
 * Implementar la solución dentro del paradigma de programación orientada a objetos
-* Implementar la solución sin usar instrucciones if ni try/catch
+* Implementar la solución sin usar instrucciones if/else ni try/catch ni ningun otro hack de lenguaje. El diseño planteado debe de por ser implementado en cualqueir lenguaje y funcionar.
 
 
 
